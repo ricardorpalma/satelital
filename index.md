@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+### Construcción de una Estación Terrestre Satelital de Código Abierto
 
-You can use the [editor on GitHub](https://github.com/ricardorpalma/satelital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Etapas**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Generar la infraestructura para automantener la base de datos de satélites Leo Geo de órbita baja
 
-### Markdown
+- Construir la estación terrena de Mendoza
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - Conectarla a la red terrestre de estaciones colaborativas
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Tiny GS	Estudiar la API de Telegram
+		Tasmotizar  /OAT
+		Armar NODE -Red
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- Satelites comerciales Lacuna
 
-**Bold** and _Italic_ and `Code` text
+- Frecuencuas ISM 868 MHz LoRa 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+**Plan de trabajo:**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ricardorpalma/satelital/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Detalle de desglose de tareas:
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1 Construcción de prototipo de Termnal DEC VT100 o VT220 con arduino (plan b si fracasa la tarea emularla desde una PC vieja tipo pentium III)
+
+En lace de las radios LoRa a VT100 y hacer pruebas de transmisión desde un automóvil  hasta el garaje de un compañero. (Plan B testearlo desde casa con wifi o Bluetooth)
+
+Subir el video del experimento a youtube.
+
+Publicar los avances en la app Zelio. Subir al profe al grupo. 
+
+
+Ver video : https://www.youtube.com/watch?v=tdj7fka4b_w
+
+
+Evaluar que software utilizar para la gestnión del proyecto. Monday.com o Trello ?
+
